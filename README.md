@@ -2,12 +2,9 @@
 
 <!-- ![Alt text](https://avatars.githubusercontent.com/u/121333557?v=4) -->
 
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mitul3047&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mitul3047&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mitul3047&theme=2077)
 
 
 - 🔭 I’m currently working on enhancing my skills in React.js and exploring advanced UI/UX design principles to create more engaging web applications.
