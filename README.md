@@ -2,38 +2,11 @@
 
 <!-- ![Alt text](https://avatars.githubusercontent.com/u/121333557?v=4) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mitul3047&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 <div align="center" width = "100%" >
   <img height="350" src="https://github-readme-streak-stats.herokuapp.com?user=Mitul3047&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
-</div>
-
-
-
-- 🔭 I’m currently working on enhancing my skills in React.js and exploring advanced UI/UX design principles to create more engaging web applications.
-
-- 🌱 I’m currently learning about serverless architecture and its implementation in web development to optimize performance and scalability.
-
-- 👯 I’m looking to collaborate on open-source projects related to web application development, especially those focusing on accessibility and user experience improvement.
-
-- 🤔 I’m looking for help with optimizing backend performance and understanding best practices in deploying web applications at scale.
-
-- 💬 Ask me about creating responsive web designs, implementing RESTful APIs, or troubleshooting frontend performance issues.
-
-- 📫 How to reach me: You can drop me a message through my portfolio website's contact form or connect with me on LinkedIn [insert LinkedIn profile link].
-
-😄 Pronouns: He/him.
-
-- ⚡ Fun fact: I'm an aspiring chef and enjoy experimenting with new recipes, infusing flavors from around the world into my cooking adventures!
-
-
-
-
-
-
-
-
-
 
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
@@ -41,15 +14,13 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+</div> -->
 
 ##
-
-
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -80,6 +51,30 @@
   <svg aria-label="Vercel Logo" fill="var(--geist-foreground)" viewBox="0 0 75 65" height="40" data-testid="dashboard/logo"><path d="M37.59.25l36.95 64H.64l36.95-64z"></path></svg>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" alt="docker logo"  />
 </div>
+
+##
+
+- 🔭 I’m currently working on enhancing my skills in React.js and exploring advanced UI/UX design principles to create more engaging web applications.
+
+- 🌱 I’m currently learning about serverless architecture and its implementation in web development to optimize performance and scalability.
+
+- 👯 I’m looking to collaborate on open-source projects related to web application development, especially those focusing on accessibility and user experience improvement.
+
+- 🤔 I’m looking for help with optimizing backend performance and understanding best practices in deploying web applications at scale.
+
+- 💬 Ask me about creating responsive web designs, implementing RESTful APIs, or troubleshooting frontend performance issues.
+
+- 📫 How to reach me: You can drop me a message through my portfolio website's contact form or connect with me on LinkedIn [insert LinkedIn profile link].
+
+😄 Pronouns: He/him.
+
+- ⚡ Fun fact: I'm an aspiring chef and enjoy experimenting with new recipes, infusing flavors from around the world into my cooking adventures!
+
+
+
+
+
+
 
 ###
 
