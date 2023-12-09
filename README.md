@@ -64,8 +64,6 @@
 
 - 📫 How to reach me: You can drop me a message through my portfolio website's contact form or connect with me on LinkedIn [insert LinkedIn profile link].
 
-😄 Pronouns: He/him.
-
 - ⚡ Fun fact: I'm an aspiring chef and enjoy experimenting with new recipes, infusing flavors from around the world into my cooking adventures!
 
 
